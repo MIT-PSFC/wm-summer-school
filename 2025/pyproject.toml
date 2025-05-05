@@ -1,0 +1,12 @@
+[project]
+name = "wm-summer-school"
+version = "2025.04"
+description = "Database preparation workflow for the W&M Summer School"
+requires-python = "==3.11.*"
+dependencies = [
+    "disruption-py==0.10.0",
+]
+
+[tool.uv.sources]
+disruption-py = { git = "https://github.com/MIT-PSFC/disruption-py/", rev = "fbc1151c725ca4a820843aa66fd39393b94ea50b" }
+
