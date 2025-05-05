@@ -8,5 +8,5 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-disruption-py = { git = "https://github.com/MIT-PSFC/disruption-py/", rev = "39007738ac91b201496f1cb3b170f30e71a54f7c" }
+disruption-py = { git = "https://github.com/MIT-PSFC/disruption-py/", rev = "fbc1151c725ca4a820843aa66fd39393b94ea50b" }
 

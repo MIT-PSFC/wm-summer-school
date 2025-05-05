@@ -4,8 +4,7 @@
 
 #### Source code
 
-- https://github.com/MIT-PSFC/disruption-py/releases/tag/v0.10
-- https://github.com/MIT-PSFC/disruption-py/tree/b892d14e815ed2f95403f40bd889d5e2f4ebaaa6
+- https://github.com/MIT-PSFC/disruption-py/tree/fbc1151c725ca4a820843aa66fd39393b94ea50b
 
 #### References
 
