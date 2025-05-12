@@ -11,6 +11,11 @@ Under the same grant, the disruption-py framework has been greatly improved.
 
 The present workflows extract Alcator C-MOD data from the MDSplus servers, and are designed to be run on the MFE workstations at MIT PSFC.
 
+#### Years
+
+- [2024](2024)
+- [2025](2025)
+
 #### References
 
 - https://crea-psfc.github.io/open-fair-fusion/
